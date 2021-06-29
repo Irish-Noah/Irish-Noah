@@ -1,4 +1,6 @@
-# Welcome! 
-My name is Noah, but everyone online just calls me Irish. I am a junior at Michigan State Universtiy majoring in Computer Science. I created this account because I want to share some of the project ideas that I've come up with!
+# Welcome To My Profile!  
+My name is Noah, but everyone online just calls me Irish. I am a junior at Michigan State Universtiy majoring in Computer Science. After I graduate, I want to work with machine learning to help develop AI! 
 
-Go ahead and check out some of my projects if you like :D
+I like to edit videos and learn about space in my spare time
+
+There isn't much yet, but go ahead and check out some of my projects if you like! 
