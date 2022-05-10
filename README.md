@@ -1,6 +1,6 @@
 # Welcome To My Profile!  
-My name is Noah, but everyone online just calls me Irish. I am a junior at Michigan State University majoring in Computer Science. After I graduate, I want to work with machine learning to help develop AI! 
+My name is Noah, but everyone online just calls me Irish. I am a grad student studying computer science at Michigan State University. Machine learning is neato
 
-I like to edit videos and learn about space in my spare time
+No one is going to read this, so I am a fuckin baller
 
-There isn't much yet, but go ahead and check out some of my projects if you like! 
+Most of my stuff is private, but checkout whater I have public if you want to
